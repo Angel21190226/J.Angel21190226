@@ -1,0 +1,403 @@
+*{
+
+  padding: 0%;
+  margin: 0%;
+}*
+
+#name{
+  background: rgb(230, 192, 230);
+  width:100%
+  margin: auto;
+  height: 1200px
+}
+#ENCABEZADO{
+  height: 7%;
+ background-color:rgb(168, 82, 234)
+ 
+
+}
+  .titulo{
+    color: rgb(3, 0, 0);
+    font-family: cursive;
+  }
+  nav li{
+    color: rgb(156, 223, 14)
+    width: 25%;
+    margin: auto;
+    display: inline-block;
+    border: solid;
+    font-family: cursive;
+    border-color: black;
+  }
+nav a:hover{background-color: rgb(240, 232, 232);}
+
+#text{
+  height: 50%;
+  background: rgb(216, 113, 230)  ;
+width: 70%;
+float: left;
+margin-top: 5px;
+
+}
+.imh{
+ border-radius: 24;
+ 
+}
+
+
+
+.imh{
+border-style: solid;
+border-color: blue;
+}
+
+#image{
+  width: 29%;
+  float: right;
+  background-color: rgb(228, 180, 236);
+height: 60%;
+margin-top: 10px;
+}
+
+.text2{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: justify;
+}
+#textoo{
+
+  width: 60%;
+  height: 30%;
+  background-color: rgb(225, 191, 236);
+  border-style: solid;
+  border-color: black;
+  margin-top: 20px;
+ float: left;
+  
+}
+.prem{
+
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
+nav a  {
+   text-decoration: none;
+
+}
+
+*{
+   padding: 0;
+   margin: 0;
+*}
+
+
+
+#NAME2{
+  background: linear-gradient(45deg, rgb(211, 159, 219), rgb(245, 167, 245));
+    background-size: 200%, 1000%;
+  width: 100%;
+  margin: auto;
+  height: 1200px;
+}
+
+#titulo1{
+float: center;
+width: 100%;
+height: 5%;
+background: linear-gradient(rgb(192, 144, 224), rgb(125, 4, 162) );
+margin-top: 10px;
+
+}
+#im3{
+ width: 20%;
+ float: left;
+background: rgb(180, 119, 219);
+height: 15%;
+margin-top: 20px;
+margin-left: 10px;
+}
+.amg{
+  width: 100%;
+  height: 100%;
+ border-radius: 10px;
+}
+#parrafo{
+  width: 75%;
+  height: 65%;
+  float: right;
+  background: linear-gradient(45deg, rgb(132, 7, 170), rgb(206, 117, 206));
+margin-left: 25px;
+margin-top: 20px;
+margin-right: 20px;
+}
+.hola{
+font-size: 19px;
+font-family: 'Times New Roman', Times, serif;
+
+}
+.hola2{
+  font-size: 19px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.nom{
+  font-size: 19px;
+  margin-right: 2px;
+}
+#menu{
+width: 15%;
+height: 68%;
+background: violet;
+float: left;
+margin-top: 55px;
+margin-left: 20px;
+}
+#classs{
+  margin-top: 25px;
+}
+nav a:hover{background-color: white;}
+.ima12{
+  float: left;
+  margin-left: 765px;
+  margin-top: 30px;
+}
+
+#NAME3{
+  background: linear-gradient(49deg, rgb(199, 25, 226), rgb(237, 101, 237));
+    background-size: 200%, 1000%;
+  width: 100%;
+  margin: auto;
+  height: 1200px;
+}
+
+#titulo1{
+float: center;
+width: 100%;
+height: 5%;
+background: linear-gradient(rgb(192, 144, 224), rgb(125, 4, 162) );
+margin-top: 10px;
+
+}
+#imj{
+ width: 20%;
+ float: left;
+background: rgb(180, 119, 219);
+height: 15%;
+margin-top: 20px;
+margin-left: 10px;
+margin-left: ;
+}
+.amgj{
+  width: 90%;
+  height: 100%;
+ border-radius: 10px;
+ margin-top: 10px;
+}
+#parrafo5{
+  width: 75%;
+  height: 65%;
+  float: right;
+  background: linear-gradient(95deg, rgb(213, 170, 225), rgb(247, 8, 247));
+margin-left: 25px;
+margin-top: 20px;
+margin-right: 20px;
+border-style: solid;
+border-color: black;
+}
+.hola1{
+font-size: 19px;
+font-family: 'Times New Roman', Times, serif;
+
+}
+.hola2{
+  font-size: 19px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.nom{
+  font-size: 19px;
+  margin-right: 2px;
+}
+#menu{
+width: 15%;
+height: 68%;
+background: violet;
+float: left;
+margin-top: 55px;
+margin-left: 20px;
+border-style: solid;
+border-color: black;
+}
+#classs{
+  margin-top: 25px;
+}
+nav a:hover{background-color: white;}
+.ima12{
+  float: left;
+  margin-left: 765px;
+  margin-top: 30px;
+}
+.tabla{
+
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 1em;
+  font-family: cursive;
+  min-width: 500px;
+  box-shadow: 0 0 black;
+  margin-top: 65px;
+}
+
+.tabla thead tr{
+
+  background-color: rgb(146, 26, 225);
+  color: black;
+  text-align: middle;
+  border-style: solid;
+  border-color: black;
+}
+.tabla th
+  .tabla td {
+padding: 12px 15px;
+border-style: solid;
+border-color: black;
+
+}
+.tabla tbody tr{
+  border-bottom: 1px solid  violet;
+}
+.tabla1{
+
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 1em;
+  font-family: cursive;
+  min-width: 500px;
+  box-shadow: 0 0 black;
+  margin-top: 65px;
+}
+
+.tabla1 thead tr{
+
+  background-color: rgb(146, 26, 225);
+  color: black;
+  text-align: middle;
+  border-style: solid;
+  border-color: black;
+}
+.tabla1 th
+  .tabla td {
+padding: 12px 15px;
+border-style: solid;
+border-color: black;
+
+}
+.tabla1 tbody tr{
+  border-bottom: 1px solid  violet;
+}
+
+
+.tabla2{
+
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 1em;
+  font-family: cursive;
+  min-width: 500px;
+  box-shadow: 0 0 black;
+  margin-top: 65px;
+}
+
+.tabla28 thead tr{
+
+  background-color: rgb(146, 26, 225);
+  color: black;
+  text-align: middle;
+  border-style: solid;
+  border-color: black;
+}
+.tabla2 th
+  .tabla td {
+padding: 12px 15px;
+border-style: solid;
+border-color: black;
+
+}
+.tabla2 tbody tr{
+  border-bottom: 1px solid  violet;
+}
+header{
+  display: flex;
+  height: 75px;
+  justify-content: space-between;
+ background-color: rgb(189, 134, 213);
+ align-items: center;
+ padding: 10px;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.logo{
+  display: flex;
+  height: 100;
+}
+.logo img{
+  height: 70px;
+  margin-right:  10px;
+}
+.footer{
+  height: 11%;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 0.7em;
+  background-color: rgb(216, 155, 243);
+  text-align: center;
+  float: inline-end;
+  font-family: 'Times New Roman', Times, serif;
+  border-color: blue;
+  
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background-color: lightgray;
+}
+
+.galeria{
+ width: 80%;
+ max-width: 1000px;
+ margin: 1rem auto;
+ column-count: 5;
+}
+
+.galeriap3{
+  padding:1em;
+background-color: aliceblue;
+margin-bottom: 1em;
+page-break-inside: avoid;
+break-inside: avoid;
+text-align: center;
+font-family: 'lucida calligraphy';
+box-shadow: 0 0 8px 0px rgba(0, 0, 0, 4);
+}
+.galeriap3 img{
+  width: 100%;
+
+}
+.galeriap3:hover{
+  transform: scale(1.1, 1.1 );
+}
+.tec{
+  font-family: 'lucida calligraphy';
+}
+
+.text1{
+  padding-top: 60px;
+}
+.parrafo{
+  text-align: justify;
+}
+.Visual{
+border-radius: 30px;
+}
